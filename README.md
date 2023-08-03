@@ -21,7 +21,7 @@ Implement Single Page Real Estate “Rent a Property” web app.
 
 <hr/>
 🎯## Important Links 🔗 
-<a href="https://legendary-moonbeam-59c991.netlify.app/">Deployed Link</a>
+<a href="https://harmonious-jelly-7729cb.netlify.app/">Deployed Link</a>
 <br>
 
 🎯 Features
